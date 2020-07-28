@@ -102,7 +102,7 @@ margin-bottom: 15px;
 .subtitulo{
     text-align: center;
     font-weight: 300;
-    color: violet;
+    color: #d43a4f;
     margin-bottom: 40px;
     font-size: 40px;
 }
@@ -130,11 +130,11 @@ margin-bottom: 15px;
 
 .n-service{
     margin-bottom: 7px;
-    color: violet;
+    color: #d43a4f;
 }
 .number{
     display: inline-block;
-    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    background-image: linear-gradient(to top, #a18cd1 0%, #e68c8c 100%);
     width: 30px;
     color: white;
     text-align: center;
