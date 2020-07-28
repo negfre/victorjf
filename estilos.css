@@ -88,12 +88,12 @@ header {
     text-decoration: none;
 }
 .titulo{
-font-size: 60px;
+font-size: 80px;
 margin-bottom: 15px;
 }
 .copy{
     font-weight: 300;
-    font-size: 25px;
+    font-size: 40px;
 }
 
 
@@ -277,6 +277,10 @@ footer{
     text-align: center;
     color: #fff;
 }
+.social-media-icon img{
+    font-size: 50px
+
+}
 .social-media-icon:hover{
     background: #fff;
     color: #7649a2;
@@ -286,6 +290,9 @@ footer{
     font-size: 30px;
     line-height: 60px;
 }
+
+
+
 .line{
     width: 90%;
     max-width: 1200px;
@@ -295,6 +302,8 @@ footer{
     margin-bottom: 60px;
 
 }
+
+
 @media screen and (max-width:800px){
     .menu-navegacion{
         width: 50vw ;
